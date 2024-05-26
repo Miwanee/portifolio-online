@@ -7,15 +7,18 @@
     border-radius: 50px;
     margin: auto;
     background-color: rgba(0, 0, 54, 0.418);
+    padding: 20px;
 }
 .titlecuriosidades{
     color: aliceblue;
     text-align: center;
     font: 500 2em oswald;
+    margin: 0px 0px 0px 0px;
 }
 .curiosidade{
     display: flex;
     justify-content: center;
+    margin: 57px 0px 0px 0px;
 }
 .games{
     color: aliceblue;
